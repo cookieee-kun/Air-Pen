@@ -1,4 +1,4 @@
-# Air Pen
+# Air Canvas
 
 **Air Pen** is an innovative tool that allows you to draw on a digital canvas simply by capturing the motion of a colored marker with a camera. This project leverages computer vision techniques to track and interpret the movement of a colored object at the tip of your finger, enabling you to create drawings in the air.
 
